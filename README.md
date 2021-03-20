@@ -1,4 +1,4 @@
-# UnsupervisedClassificationAVIRIS-NG
+# Unsupervised Classification on AVIRIS-NG Data
 
 This repository contains the code used in the paper:
 
