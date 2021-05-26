@@ -17,3 +17,6 @@ Table of Contents:
 5. Visualization of Reduced Data
 6. SAM & SID
 7. Clustering: K-Means & GMM
+
+
+Python Packages used in the scripts: scikit-learn, specrtal python, pysptools...
