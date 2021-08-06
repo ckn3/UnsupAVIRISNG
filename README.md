@@ -2,7 +2,7 @@
 
 This repository contains the code used in the paper:
 
-- Kangning Cui and Robert J Plemmons. Unsupervised Classification of AVIRIS-NG Hyperspectral Images. In: 2021 IEEE WHISPERS (2021).
+- Kangning Cui and Robert J Plemmons. Unsupervised Classification of AVIRIS-NG Hyperspectral Images. In: 2021 IEEE WHISPERS (2021), see: https://ieeexplore.ieee.org/document/9484006.
 
 - Contact: kangnicui2@gmail.com
 
